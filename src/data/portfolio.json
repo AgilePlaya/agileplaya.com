@@ -1,0 +1,58 @@
+{
+  "developer": {
+    "name": "Jane Doe",
+    "title": "Full Stack Engineer",
+    "bio": "I craft highly interactive, animated, and performant web applications.",
+    "socials": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com",
+        "icon": "github"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com",
+        "icon": "linkedin"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://twitter.com",
+        "icon": "twitter"
+      }
+    ]
+  },
+  "skills": [
+    "TypeScript",
+    "Next.js",
+    "React",
+    "Tailwind CSS",
+    "Framer Motion",
+    "Node.js",
+    "GraphQL",
+    "PostgreSQL"
+  ],
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "Agentic IDE",
+      "description": "A next-generation development environment powered by autonomous agents, featuring real-time code generation and contextual bug fixing.",
+      "technologies": ["Next.js", "WebSockets", "Framer Motion", "Go"],
+      "link": "https://example.com/agentic-ide",
+      "github": "https://github.com/example/agentic-ide"
+    },
+    {
+      "id": "project-2",
+      "title": "Quantum Flow",
+      "description": "An interactive data visualization dashboard for complex state machines, featuring real-time collaborative editing.",
+      "technologies": ["React", "D3.js", "Tailwind CSS", "Supabase"],
+      "link": "https://example.com/quantum-flow"
+    },
+    {
+      "id": "project-3",
+      "title": "Aurora Design System",
+      "description": "A comprehensive UI component library focused on glassmorphism and animated mesh gradients, built for modern web apps.",
+      "technologies": ["TypeScript", "Storybook", "Framer Motion", "Tailwind CSS"],
+      "github": "https://github.com/example/aurora"
+    }
+  ]
+}
